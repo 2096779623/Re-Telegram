@@ -30,6 +30,7 @@ public class HookInit implements IXposedHookLoadPackage {
             "com.radolyn.ayugram",
             "it.octogram.android",
             "xyz.nextalone.nnngram",
+            "top.qwq2333.nullgram",
             "it.belloworld.mercurygram");
     private static final List<String> notNeedHideStories = Arrays.asList("tw.nekomimi.nekogram", "com.exteragram.messenger", "uz.unnarsx.cherrygram");
     private static final List<String> hookPackagesCustomization = Arrays.asList("xyz.nextalone.nagram",
