@@ -14,7 +14,7 @@ public class ClientChecker {
     }
 
     public enum ClientType {
-        Nekogram("top.qwq2333.nullgram"),
+        Nekogram("top.114514"),
         Yukigram("me.onlyfire.yukigram.beta"),
         MDgram(new String[]{ "org.telegram.mdgram" });
 
