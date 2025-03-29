@@ -20,6 +20,7 @@ import nep.timeline.re_telegram.features.UseSystemTypeface;
 public class HookInit implements IXposedHookLoadPackage {
     private static final List<String> hookPackages = Arrays.asList("org.telegram.messenger", "org.telegram.messenger.web", "org.telegram.messenger.beta", "org.telegram.plus", "org.telegram.mdgram",
             "tw.nekomimi.nekogram",
+            "top.qwq2333.nullgram",
             "com.cool2645.nekolite",
             "com.exteragram.messenger",
             "org.forkgram.messenger",
